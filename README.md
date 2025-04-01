@@ -1,4 +1,4 @@
-# Simple PHP Calendar
+# Simple PHP Calendar Page Generator
 
 This is a super simple PHP script that generates a calendar page for a specified month and year.
 
